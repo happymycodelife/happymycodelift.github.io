@@ -1,0 +1,27 @@
+
+body{
+font-family:Arial, sans-serif;
+max-width:700px;
+margin:auto;
+padding:20px;
+}
+h1{text-align:center;}
+#question{
+font-size:20px;
+margin-bottom:20px;
+}
+input{
+width:100%;
+padding:10px;
+font-size:18px;
+margin-bottom:10px;
+}
+button{
+width:100%;
+padding:12px;
+font-size:18px;
+}
+.purple{
+color:purple;
+font-weight:bold;
+}
